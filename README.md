@@ -8,3 +8,5 @@
   + This might be due to my joystick drifting and having a X-Cord value of 700-800 when steady while the typical value should be ~520
 + Pushing the button of the joystick while the display is incrementing/decrementing will sometimes cause the decimal point to change
   + This is because in order for a visual change of the display a delay is needed, meaning during that period if the button is pressed the decimal point wont change
+### Wiring Diagram
+![Screenshot of the wiring diagram used when writing the program](images/Wiring_Diagram-Joystick_Segment_Display.png)
