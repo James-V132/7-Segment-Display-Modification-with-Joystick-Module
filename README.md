@@ -11,7 +11,7 @@
   + ~~This is because in order for a visual change of the display a delay is needed, meaning during that period if the button is pressed the decimal point wont change~~
   + **FIXED:** Implemented using millis() instead of delay to prevent the entire program from freezing
 ### Wiring Diagram
-
+![Screenshot of wiring physically done](images/Wiring_Diagram-Joystick_Segment_Display.png)
 ### Credits
 + Gave me the basis of how a 7-Segment-Display works and the appropriate code:\
 https://arduinointro.com/articles/projects/how-to-use-a-7-segment-display-with-arduino-a-complete-beginners-guide
