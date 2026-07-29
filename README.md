@@ -3,6 +3,8 @@
 + Pushing the joystick upward increments the number displayed while pushing the joystick downward decrements the number displayed
 + Pushing the joystick in one direction long enough speeds up the change in the number displayed (default change is every 1/2 second, but after 4 increments/decrements change is every 1/4 second)
 + Pushing the button of the joystick turns on and off the decimal point
+### Functionality
+This program allows for the digit on a 5161AS 7-Segment Display to be manually incremented/decremented according to the appropriate joystick movement. In addition, pushing the button of the joystick will turn on/off the decimal point of the digit
 ### Issues
 + Random increments of the display despite no movement of the joystick
   + This might be due to my joystick drifting and having a X-Cord value of 700-800 when steady while the typical value should be ~520
