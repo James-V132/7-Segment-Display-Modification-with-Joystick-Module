@@ -15,9 +15,7 @@ This program allows for the digit on a 5161AS 7-Segment Display to be manually i
 ### Wiring Diagram
 ![Screenshot of wiring physically done](images/Wiring_Diagram-Joystick_Segment_Display.png)
 ### Credits
-+ Gave me the basis of how a 7-Segment-Display works and the appropriate code:\
-https://arduinointro.com/articles/projects/how-to-use-a-7-segment-display-with-arduino-a-complete-beginners-guide
-+ Instructed the wiring and the basics of a Joystick Module:\
-https://www.youtube.com/watch?v=9z5FsTzYWE4
++ Gave me the basis of how a 7-Segment-Display works and the appropriate code: [Website](https://arduinointro.com/articles/projects/how-to-use-a-7-segment-display-with-arduino-a-complete-beginners-guide)
++ Instructed the wiring and the basics of a Joystick Module: [Video](https://www.youtube.com/watch?v=9z5FsTzYWE4) 
 ### Disclaimer
 I'm aware of the the [SevSeg](https://github.com/untr0py/SevSeg) library by Dean Reading designed for 7-Segment-Displays which makes this project alot easier and cleaner, but I wanted to challenge myself
